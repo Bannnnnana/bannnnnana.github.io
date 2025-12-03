@@ -5,6 +5,8 @@ paginate: 1
 baseurl: ""
 permalink: pretty
 
+remote_theme: poole/darkpoole
+
 # Gems
 plugins:
   - jekyll-gist
