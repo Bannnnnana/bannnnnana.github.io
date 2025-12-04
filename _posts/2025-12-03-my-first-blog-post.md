@@ -26,6 +26,18 @@ As a basketball enthusiast and a frontend learner, I noticed the lack of conveni
 3.  **Persistent & Reliable**: Saves the game state locally so that accidentally refreshing the page doesn't ruin the match.
 4.  **Visually Pleasing**: Employs a clean, dark-themed UI inspired by developer-friendly interfaces like GitHub's.
 
+| Stat / Link | Badge / Info | Description |
+| :--- | :--- | :--- |
+| **Repository** | ![GitHub Repo](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=flat) | Main source code repository |
+| **Live Demo** | 🌐 [bannnnnana.github.io/HoopCounter-Pro/](https://bannnnnana.github.io/HoopCounter-Pro/) | Try the application live |
+| **Repo Size** | ![GitHub repo size](https://img.shields.io/github/repo-size/bannnnnana/HoopCounter-Pro?label=Size&style=flat-square&color=blue) | Total size of the project repository |
+| **Code Size** | ![GitHub code size](https://img.shields.io/github/languages/code-size/bannnnnana/HoopCounter-Pro?label=Code&style=flat-square&color=green) | Volume of the source code |
+| **Latest Release** | ![GitHub release](https://img.shields.io/github/v/release/bannnnnana/HoopCounter-Pro?label=Release&style=flat-square) | Current project version |
+| **License** | ![GitHub license](https://img.shields.io/github/license/bannnnnana/HoopCounter-Pro?label=License&style=flat-square) | Open-source license (MIT) |
+| **Video Tutorial** | [![Bilibili](https://img.shields.io/badge/Bilibili-Watch_Tutorial-00A1D6?logo=bilibili&style=flat)](https://www.bilibili.com/video/BV1ZK2eBuERj/) | Full walkthrough on Bilibili |
+| **QQ Group** | `1074826839` | Community for discussion & support |
+| **My Blog** | `[Your Blog Homepage URL]` | *Replace with your actual blog link* |
+
 ## Technical Deep Dive: Key Features & Implementation
 
 ### 1. Intelligent Foul Tracking & Alert System
