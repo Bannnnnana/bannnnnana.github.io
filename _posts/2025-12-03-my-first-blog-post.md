@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HoopCounter Pro: Building a Multi-Language Basketball Scoreboard from Scratch"
-date:   2025-12-04 14:30:00 +0800
+date:   2024-12-04 14:30:00 +0800
 categories: [Project, Frontend]
 tags: [JavaScript, GitHub Pages, Basketball, Open Source]
 ---
@@ -44,6 +44,14 @@ Supporting 8 languages required a scalable approach.
 - Created a central `translations` object acting as a key-value store for all UI strings in every language.
 - Wrote a `updateUI()` function that doesn't just translate text but also switches attributes like `placeholder` or `title`.
 - The language switch is handled by a `change` event listener on the dropdown, which updates the global `state.language` and re-renders the UI.
+
+## 🎬 Bilibili Video Tutorial
+
+To better illustrate how the application works in practice, I've created a detailed video tutorial. In this video, I walk through all the features, explain the code structure, and show the deployment process step by step.
+
+**Watch the full tutorial on Bilibili:**
+
+[![HoopCounter Pro Video Tutorial](https://img.shields.io/badge/Bilibili-点击观看完整视频教程-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1ZK2eBuERj/?spm_id_from=333.1387.top_right_bar_window_dynamic.content.click&vd_source=864cfe5f0c3245951ccf123b9d4e850a)
 
 ### 3. Single-File Application Architecture
 For portability and simplicity, the entire project is one `index.html` file containing all HTML, CSS, and JavaScript.
