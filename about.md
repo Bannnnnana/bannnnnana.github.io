@@ -26,7 +26,7 @@ A passionate explorer at the intersection of technology and creativity. This spa
 I believe in learning together and sharing knowledge.
 
 - **QQ Group:** 1074826839 (Primary community for discussion & support)
-- **GitHub:** [@Baremmana](https://github.com/Baremmana) (Where this site lives)
+- **GitHub:** [@Baremmana](https://github.com/Bannnnnana) (Where this site lives)
 - **Email:** [3601952040@qq.com] (Replace this with your email)
 
 ### ❓ About This Site
